@@ -2,6 +2,8 @@
 
 ## Learning Goals
 
+cd Development/code/phase4
+
 - Use Flask-SQLAlchemy to join tables with many-to-many relationships.
 
 ---
